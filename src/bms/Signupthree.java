@@ -19,8 +19,6 @@ public class Signupthree extends JFrame implements ActionListener {
         l1.setBounds(280,40,400,40);
         add(l1);
         
-        
-        
         JLabel type= new JLabel("ACCOUNT TYPE");
         type.setFont(new Font("Raleway",Font.BOLD,22));
         type.setBounds(100,140,200,30);
